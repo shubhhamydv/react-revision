@@ -1,0 +1,11 @@
+ button{
+    padding: 10px 20px;
+    margin: 20px;
+ }
+
+ h1{
+    background-color: gainsboro;
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 20px;
+ }
